@@ -205,7 +205,7 @@ const Footer: React.FC = () => {
                       WebkitTextFillColor: 'transparent',
                     }}
                   >
-                    Kevin Liam
+                    Roman
                   </Typography>
                 </Box>
               </motion.div>
